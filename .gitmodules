@@ -1,0 +1,8 @@
+[submodule "web"]
+    path = web
+    branch = "master"
+    url = https://github.com/cruzortiz99/e-commerce-platform-web.git
+[submodule "mobile"]
+    path = mobile
+    branch = "master"
+    url = https://github.com/cruzortiz99/e-commerce-platform-mobile.git
